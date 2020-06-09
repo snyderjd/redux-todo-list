@@ -64,30 +64,3 @@ class StepForm extends Component {
 }
 
 export default StepForm;
-
-// import { uniqueId } from '../../util/id_generator'
-// import React from 'react';
-
-// class StepForm extends React.Component {
-//   constructor(props) {
-//     super(props);
-//     this.state = {
-//       title: "",
-//       body: "",
-//       done: false,
-//       todo_id: this.props.todo_id
-//     };
-
-//     this.handleSubmit = this.handleSubmit.bind(this);
-//   }
-
-//   update(property) {
-//     return e => this.setState({[property]: e.target.value});
-//   }
-
-
-
-
-// }
-
-// export default StepForm;

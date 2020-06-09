@@ -1,0 +1,5 @@
+.todo-form__title--container,
+.todo-form__body--container {
+    width: 50%;
+    margin: auto;
+}
